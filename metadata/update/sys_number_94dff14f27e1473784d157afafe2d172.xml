@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_692302_pf_manage_pf_users">x_692302_pf_manage_pf_users</category>
+        <maximum_digits>9</maximum_digits>
+        <number>1</number>
+        <prefix>PFUSR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 14:56:17</sys_created_on>
+        <sys_id>94dff14f27e1473784d157afafe2d172</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PFUSR</sys_name>
+        <sys_package display_value="PF Management" source="x_692302_pf_manage">97f0c73993cd26500ac47a5efaba1083</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PF Management">97f0c73993cd26500ac47a5efaba1083</sys_scope>
+        <sys_update_name>sys_number_94dff14f27e1473784d157afafe2d172</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 14:56:17</sys_updated_on>
+    </sys_number>
+</record_update>
