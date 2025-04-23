@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="18c264da9389a6500ac47a5efaba1037" sys_domain="global" table="x_692302_pf_manage_pf_nominations" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_692302_pf_manage_pf_nominations</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-23 16:10:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18c264da9389a6500ac47a5efaba1037</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_692302_pf_manage_pf_nominations</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PF Management" source="x_692302_pf_manage">97f0c73993cd26500ac47a5efaba1083</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PF Management">97f0c73993cd26500ac47a5efaba1083</sys_scope>
+            <sys_update_name>sys_ui_section_18c264da9389a6500ac47a5efaba1037</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-23 16:10:57</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PF Management">97f0c73993cd26500ac47a5efaba1083</application>
+        <file_path/>
+        <instance_id>7d1a1b9f935cae50d9f6ddd548373ceb</instance_id>
+        <instance_name>dev304989</instance_name>
+        <name>sys_ui_section_18c264da9389a6500ac47a5efaba1037</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="18c264da9389a6500ac47a5efaba1037" sys_domain="global" table="x_692302_pf_manage_pf_nominations" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_692302_pf_manage_pf_nominations</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-23 16:10:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>18c264da9389a6500ac47a5efaba1037</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_692302_pf_manage_pf_nominations</sys_name><sys_overrides/><sys_package display_value="PF Management" source="x_692302_pf_manage">97f0c73993cd26500ac47a5efaba1083</sys_package><sys_policy/><sys_scope display_value="PF Management">97f0c73993cd26500ac47a5efaba1083</sys_scope><sys_update_name>sys_ui_section_18c264da9389a6500ac47a5efaba1037</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-23 16:10:57</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1123952610</payload_hash>
+        <record_name>PF Nominations</record_name>
+        <reverted_from/>
+        <source>d6018721933022100ac47a5efaba10f4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2025-04-09 09:31:21</sys_created_on>
+        <sys_id>5cc22c1e9389a6500ac47a5efaba10a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19619e3ca280000000</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 18:07:55</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1cc22c1e7089a650e10e1278ba6301a5</update_guid>
+        <update_guid_history>1cc22c1e7089a650e10e1278ba6301a5:-1123952610</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 16:16:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>3b0957a8f39d408aa078ada54fb6b1e4</sys_id>
+        <sys_metadata>18c264da9389a6500ac47a5efaba1037</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_692302_pf_manage_pf_nominations</sys_name>
+        <sys_package display_value="PF Management" source="x_692302_pf_manage">97f0c73993cd26500ac47a5efaba1083</sys_package>
+        <sys_parent display_value="">12a22c1a9389a6500ac47a5efaba106a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="PF Management">97f0c73993cd26500ac47a5efaba1083</sys_scope>
+        <sys_scope_delete display_value="">8828984767474b60bc756186566b7751</sys_scope_delete>
+        <sys_update_name>sys_ui_section_18c264da9389a6500ac47a5efaba1037</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_18c264da9389a6500ac47a5efaba1037">5cc22c1e9389a6500ac47a5efaba10a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 16:16:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
